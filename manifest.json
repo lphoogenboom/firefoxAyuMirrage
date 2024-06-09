@@ -1,0 +1,47 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Ayu Mirrage",
+  "author": "Laurens Hoogenboom",
+  "description": "Ayu Mirrage colour scheme for Firefox ",
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "hoogenboom.l.payumirragefirefox@gmail.com"
+    }
+  },
+  "theme": {
+    "colors": {
+      "toolbar": "rgb(30, 35, 48)",
+      "toolbar_text": "rgb(200, 198, 190)",
+      "frame": "rgb(30, 35, 48)",
+      "tab_background_text": "rgb(200, 198, 190)",
+      "toolbar_field": "rgb(30, 35, 48)",
+      "toolbar_field_text": "rgb(200, 198, 190)",
+      "tab_line": "rgb(30, 35, 48)",
+      "popup": "rgb(30, 35, 48)",
+      "popup_text": "rgb(200, 198, 190)",
+      "button_background_active": "rgb(50, 56, 67)",
+      "button_background_hover": "rgb(41, 48, 64)",
+      "icons_attention": "rgb(255, 204, 102)",
+      "ntp_background": "rgb(30, 35, 48)",
+      "ntp_card_background": "#293040",
+      "ntp_text": "#CCCAC2",
+      "popup_highlight_text": "rgb(200, 198, 190)",
+      "popup_highlight": "rgb(39, 67, 100)",
+      "sidebar_border": "rgb(30, 35, 48)",
+      "sidebar_highlight_text": "rgb(200, 198, 190)",
+      "sidebar_highlight": "rgb(39, 67, 100)",
+      "sidebar_text": "rgb(200, 198, 190)",
+      "sidebar": "rgb(30, 35, 48)",
+      "tab_selected": "rgb(30, 35, 48)",
+      "tab_text": "rgb(255, 204, 102)",
+      "toolbar_top_separator": "#1F2430",
+      "toolbar_bottom_separator": "rgb(30, 35, 48)",
+      "toolbar_field_focus": "rgb(30, 35, 48)",
+      "toolbar_field_highlight_text": "rgb(247, 249, 250)",
+      "toolbar_field_highlight": "rgb(39, 67, 100)",
+      "toolbar_field_text_focus": "rgb(200, 198, 190)",
+      "tab_loading": "rgb(30, 35, 48)"
+    }
+  }
+}
